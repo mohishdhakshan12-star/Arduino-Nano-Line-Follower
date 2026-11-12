@@ -115,3 +115,4 @@ graph LR
    Switched GND    -> | IN-            OUT-| -> Common Ground Bus (Nano GND, TB6612 GND, LCD GND)
                       +--------------------+
 ```
+

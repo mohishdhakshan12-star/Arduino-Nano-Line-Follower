@@ -116,3 +116,4 @@ The analog and auxiliary pins are reserved for sensor inputs:
 | **A7** | Line Sensor Channel 6 / Battery Monitor (Analog input only) |
 
 > **Grounding Rule**: Ensure the line sensor ground pin connects directly to the system switched GND rail.
+

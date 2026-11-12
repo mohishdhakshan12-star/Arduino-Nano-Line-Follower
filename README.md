@@ -284,3 +284,4 @@ When adapting this project for your specific competition or robot build, finaliz
 3. Select **Tools $\rightarrow$ Processor $\rightarrow$ ATmega328P** (or *ATmega328P (Old Bootloader)* depending on your Nano clone).
 4. Select the corresponding COM port.
 5. Compile and upload the sketch!
+
